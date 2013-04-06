@@ -130,7 +130,7 @@ else {
 <nav>
 <ul>
 <li>
-<a href="../index.php?id=1"> 자 바 </a>
+<a> 자 바 </a>
 </li>
 <li>
 <a href="./board_list.php?page=1"> 게 시 판 </a>
